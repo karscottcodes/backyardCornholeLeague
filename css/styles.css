@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Figtree:ital,wght@0,300;0,400;0,700;1,400&family=Graduate&display=swap');
+
+#site-logo {
+    max-width: 300px;
+    height: auto;
+}
+
+#site-name {
+    font-size: 1.25em;
+}
+
+body {
+    font-family: "Figtree", sans-serif;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: "Graduate", "Figtree", sans-serif;
+}
+
+div#hero {
+    background-image: url("../imgs/cornhole-hero.jpg");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    height:400px;
+}
